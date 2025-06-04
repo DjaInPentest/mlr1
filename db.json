@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "adminpass",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "password": "userpass",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "username": "me",
+      "password": "mepass",
+      "role": "user"
+    }
+  ],
+  "items": [
+    {
+      "id": "795d",
+      "name": "Название1 ",
+      "theme": "Тема1 ",
+      "content": "Содержание1",
+      "date": "2025-05-27",
+      "applicant": "Заявитель не заявлен",
+      "status": "Пришло",
+      "priority": "Средний",
+      "ownerId": 2
+    },
+    {
+      "id": "f2ac",
+      "name": "Тест Сохранения",
+      "theme": "Тест Сохранения (Тема)",
+      "content": "Тест Сохранения (Содержание)",
+      "date": "2014-03-21",
+      "applicant": "Умный И. И.",
+      "status": "На рассмотрении",
+      "priority": "Низкий",
+      "ownerId": 1
+    },
+    {
+      "id": "b60d",
+      "name": "OOO \"На на на на на\"",
+      "theme": "Неправильный налоговый вычет",
+      "content": "Неправильный налоговый вычет2",
+      "date": "2003-02-22",
+      "status": "Принято в обработку",
+      "priority": "Низкий",
+      "applicant": "user"
+    },
+    {
+      "name": "Названи",
+      "theme": "к",
+      "content": "ы123",
+      "date": "0222-02-22",
+      "status": "222",
+      "priority": "222",
+      "applicant": "user",
+      "id": "4teLOrC"
+    }
+  ]
+}
